@@ -291,9 +291,11 @@ if __name__ == '__main__':
 
 ### Output :
 
-![image-20221009133343880](C:\Users\ljn\AppData\Roaming\Typora\typora-user-images\image-20221009133343880.png)
+**Because we can't calculate (2^10^-1) subsets, so we only calculate N increasing from 1 to 20. We can see the result:**
 
-![image-20221009133358553](C:\Users\ljn\AppData\Roaming\Typora\typora-user-images\image-20221009133358553.png)
+![image-20221013202108438](C:\Users\ljn\AppData\Roaming\Typora\typora-user-images\image-20221013202108438.png)
+
+![image-20221013202220117](C:\Users\ljn\AppData\Roaming\Typora\typora-user-images\image-20221013202220117.png)
 
 We can see that the sum of the average values of all subsets increase with the increase of the array capacity.
 
